@@ -1,0 +1,20 @@
+{
+  "name": "namaste-react-code",
+  "version": "1.0.0",
+  "description": "Learning React from Akshya Saini",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Shikku Prasad",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
